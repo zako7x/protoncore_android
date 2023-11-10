@@ -1,0 +1,2 @@
+implementation("~:network-domain:~")
+implementation("~:network-data:~")
